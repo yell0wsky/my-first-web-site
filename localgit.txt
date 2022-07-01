@@ -1,0 +1,3 @@
+git init localGit
+cd localGit
+vim f1.txt
